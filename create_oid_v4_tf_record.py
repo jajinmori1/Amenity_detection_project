@@ -304,7 +304,7 @@ def main(_):
         FLAGS.num_shards,
         label_map_dict,
         target_class_id_dict,
-        arget_id_class_dict,
+        target_id_class_dict,
         annotation_df,
         image_dir,
         val_examples
